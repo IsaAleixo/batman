@@ -1,8 +1,8 @@
-body {
-    background-color: darkblue;
+body {  background-color: darkblue;
     border-style: dotted ;
     border-width: 7px;
 }
+    
 h1 {
     text-align: center;
     font-size: 300%;
@@ -14,13 +14,14 @@ h1 {
 }
 
 #ba{
-    width: 10%;
+    width: 30%;
     margin-left: 24%;
 }
 
 #de {
-    width: 10%;
+    width: 30%;
 }
+
 
 h2 {
    border-top : double;
@@ -29,13 +30,9 @@ h2 {
 }
 
  #lo {
-    width: 10%;
+    width: 30%;
     margin-left: 33%;
-    border-style:double;
-    border-width: 10px;
-    border-color: rgb(213, 195, 0)
-}
-
-h3 {
-    text-align: center;
-}
+        background-color: darkblue;
+        border-style: dotted ;
+        border-width: 7px;
+    }
