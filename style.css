@@ -1,0 +1,41 @@
+body {
+    background-color: darkblue;
+    border-style: dotted ;
+    border-width: 7px;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+    border-style: double;
+    border-width: 12px;
+    border-radius: 30% ;
+    border-color: rgb(213, 195, 0);
+    
+}
+
+#ba{
+    width: 20%;
+    margin-left: 24%;
+}
+
+#de {
+    width: 30%;
+}
+
+h2 {
+   border-top : double;
+   border-width: 12px;
+   border-color: rgb(255, 255, 255);
+}
+
+ #lo {
+    width: 30%;
+    margin-left: 33%;
+    border-style:double;
+    border-width: 10px;
+    border-color: rgb(213, 195, 0)
+}
+
+h3 {
+    text-align: center;
+}
